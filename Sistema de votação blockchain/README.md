@@ -1,6 +1,6 @@
-# DigitalInnovationOne-Aula03
+# Sistema basico de votação 
 
-Repositório de código para a Aula 03 - Sistema de votação baseado em Ethereum
+Sistema de votação baseado em Ethereum
 
 ## Tópicos abordados nesse projeto
 
